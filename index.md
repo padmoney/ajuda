@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: Central de Ajuda do Padmoney
 permalink: /
 ---
 
 # Central de Ajuda do Padmoney
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Conteúdo com dicas e informações para quando você encontrar uma dúvida a respeito do uso da plataforma de gestão de pagamentos Padmoney.
 {: .fs-6 .fw-300 }
 
 [Crie sua conta](https://signup.padmoney.com/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Login](https://app.padmoney.com){: .btn .fs-5 .mb-4 .mb-md-0 }
