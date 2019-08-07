@@ -26,3 +26,5 @@ Para solicitar uma transferência de uma conta virtual do Padmoney para sua cont
 4. Após estes passos, basta clicar no botão “Solicitar Transferência”.
 
 A transferência da sua conta virtual do Padmoney para sua conta bancária será processada em até 1 dia útil. Em caso de transferências entre contas virtuais dentro do sistema, a mesma é processada em tempo real.
+
+Consulte também nossa página de [dúvidas frequentes sobre transferências de valores]({{ site.baseurl }}{% link docs/transferencia/duvidas-frequentes.md %}).
