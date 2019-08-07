@@ -9,7 +9,7 @@ permalink: /
 # Central de Ajuda do Padmoney
 {: .fs-9 }
 
-Conteúdo com dicas e informações para quando você encontrar uma dúvida a respeito do uso da plataforma de gestão de pagamentos Padmoney.
+A central de ajuda do Padmoney traz dicas e informações para sanar todas as suas dúvidas relacionadas ao uso da plataforma de gestão de pagamentos. 
 {: .fs-6 .fw-300 }
 
 [Crie sua conta](https://signup.padmoney.com/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Login](https://app.padmoney.com){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -20,8 +20,11 @@ Conteúdo com dicas e informações para quando você encontrar uma dúvida a re
 
 ### Conheça nossa empresa
 
-Emissão de boletos registrados on-line de forma simplificada e eficiente. Seja qual for o seu negócio, o Padmoney é a solução perfeita e segura para você gerenciar seus recebimentos através de boletos bancários.
+Toda a praticidade de pagamentos utilizando o boleto bancário pode ser ainda melhor se tiver ao lado um sistema de gestão de pagamentos online, como o Padmoney.
 
+Somos o seu parceiro ideal para promover com eficiência os recebimentos de suas vendas, garantindo segurança e rapidez para seus clientes.
+
+Temos uma busca constante pelo aperfeiçoamento da nossa plataforma afim de oferecer o melhor serviço, com maior segurança etambém as menores tarifas do mercado. No Padmoney não há taxa de cadastro ou mensalidades, o cadastro é rápido e totalmente gratuito. Você só é cobrado se o seu cliente pagar o boleto.
 
 ---
 
@@ -31,20 +34,20 @@ Veja quais são as dúvidas mais procuradas na nossa Central de Ajuda.
 
 ### Posso me cadastrar como pessoa física?
 
-Sim, no Padmoney você poderá emitir boletos como pessoa física sem nenhum problema, basta efetuar seu cadastro normalmente, incluir os dados básicos da sua conta bancária para realizar as transferências de forma simples e prática.
+Sim, no Padmoney você poderá fazer seu cadastro tanto como Pessoa Física e emitir suas cobranças para seus clientes. É importante lembrar que os dados bancários da conta que receberá os valores, deverá ser da mesma titularidade do cadastro efetuado no sistema.
 
 ### Minhas informações estão seguras?
 
-Absolutamente todos os dados trafegados pelo Padmoney são criptografados e toda informação é armazenada em servidores atualizados e mantidos nos mais altos níveis de segurança existentes hoje no mercado.
+No Padmoney, todos os dados que passam pelo sistema são criptografados e as informações são armazenados em servidores constantemente atualizados e mantidos nos mais altos níveis de segurança de dados existente no mercado.
 
 ### Como vou saber que o Padmoney é mesmo seguro?
 
 Contamos com um time especializado em segurança para manter as conformidades da norma internacional ISO-27001, International Standardization Organization (ISO) escrita pelos melhores especialistas mundiais no campo de segurança da informação, mantendo o alto padrão a nível de segurança de dados.
 
-Além disso, o Padmoney segue os requisitos da PCI-DSS (Payment Card Industry - Data Security Standard), um padrão internacional que especifica recomendações mínimas obrigatórias de segurança para as empresas que participam da rede de captura de pagamento com cartões.
+O Padmoney segue também todos os requisitos da PCI-DSS (Payment Card Industry – Data Security Standart), que é um padrão internacional que especifica quais são as recomendações obrigatórias de segurança para as empresas que participam da rede de captura depagamento com cartões.
 
 ### Como administrar minha chave de segurança e Token da API em segurança?
 
-Todos os usuários que possuem acesso as Configurações da sua conta Padmoney têm acesso ao Token de Segurança. A 'Chave de Segurança' informada na criação do Token não é armazenada nos servidores do Padmoney e portanto nunca será exibida.
+Todos os usuários do sistema que possuem acesso às configurações da sua conta Padmoney, têm acesso ao Token de Segurança. Para criar o Token é necessário que você informe uma “chave de segurança” para o mesmo e é importante que saiba que esta chave não é armazenada nos servidores do sistema, portanto ela nunca será exibida.
 
-Para que você mantenha o Token em segurança, é imprescindível que você nunca compartilhe com ninguém. Nem a chave, nem o Token.
+Para manter a segurança no seu Token, recomendamos que você não o compartilhe com pessoas que não estão diretamente ligadas à integração do seu sistema com o Padmoney. Essa informação é válida tanto para o Token quanto para a Chave.

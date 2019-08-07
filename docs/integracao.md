@@ -10,7 +10,6 @@ nav_order: 2
 O Padmoney oferece aos desenvolvedores uma API simples e poderosa em REST para integrar pagamentos por boletos bancários em seu site ou aplicação.
 {: .fs-6 .fw-300 }
 
-## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -19,7 +18,7 @@ O Padmoney oferece aos desenvolvedores uma API simples e poderosa em REST para i
 ---
 
 
-Acesse a [Documentação da API do Padmoney](https://developers.padmoney.com) e encontre uma documentação completa para ajudar na integração.
+Acesse a [Documentação da API do Padmoney](https://developers.padmoney.com) e encontre uma documentação completa para ajudar os desenvolvedores na integração com o Padmoney.
 
 ## API Padmoney
 
