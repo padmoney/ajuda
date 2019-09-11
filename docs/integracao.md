@@ -48,12 +48,11 @@ Existem módulos prontos para integrar ao Padmoney sem a necessidade de desenvol
 
 ### HOSTMGR
 
-O módulo de integração para HOSTMGR é o oficial e disponibilizado de forma nativa no sistema. Conheça o HOSTMGR em [https://www.hostmgr.com.br/](https://www.hostmgr.com.br/
-).
+O módulo de integração para HOSTMGR é o oficial e disponibilizado de forma nativa no sistema. Conheça o HOSTMGR em [www.hostmgr.com.br](https://www.hostmgr.com.br/).
 
 ### WHMCS
 
-WHMCS, abreviação de WebHost Manager Complete Solution, é um sistema de gestão de clientes, administração financeira e prestação de suporte, com integração a diversos painéis de controle, e utilizado em empresas de web hosting.
+[WHMCS](https://www.whmcs.com/), abreviação de WebHost Manager Complete Solution, é um sistema de gestão de clientes, administração financeira e prestação de suporte, com integração a diversos painéis de controle, e utilizado em empresas de web hosting.
 
 Atualmente o Padmoney conta com dois parceiros para WHMCS. Fique a vontade para conhece-los através dos links:
 
