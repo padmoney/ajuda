@@ -1,5 +1,5 @@
 ---
-date: 2019-09-11
+date: 2019-09-12
 title: Portal do Cliente
 description: Forneça a seus clientes um portal exclusivo para acompanhar todo seu histórico de cobrança
 categories:
