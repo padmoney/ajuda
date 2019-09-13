@@ -1,7 +1,7 @@
 ---
 date: 2019-09-12
 title: Dúvidas Frequentes
-description: Learn how to use collections to manage and organize related content
+description: Dúvidas frequentes sobre transferências de valores
 categories:
   - transferência
 faq:
