@@ -56,3 +56,6 @@ Após informar e confirmar sua Chave de Segurança, clique no botão Gerar novo 
 Feito isso seu Token de Acesso estará criado, ou atualizado, e pronto para ser usado.
 
 ![Token de Acesso criado](/images/screenshots/token-acesso-4.png)
+
+
+Acesse a [Documentação da API do Padmoney](https://developers.padmoney.com) e encontre uma documentação completa para ajudar os desenvolvedores na integração com o Padmoney.
