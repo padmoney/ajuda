@@ -23,15 +23,9 @@ Todas as requisições devem usar o schema `https` por questões de segurança.
 
 ### Autenticação
 
-Atualmente é possível autenticar na API do Padmoney usando Token de Acesso. Para poder usar a autenticação via Token de Acesso, você precisa gerar o seu Token, onde será necessário informar uma Chave de Segurança, nas configurações da sua conta.
+Atualmente é possível autenticar na API do Padmoney usando Token de Acesso, e você pode encontrar mais detalhes acessando nosso [tutorial explicando passo a passo como gerar seu Token de Acesso](/integração/gerar-token-acesso/).
 
-Após a geração do Token, com a Chave de Segurança e o Token em mãos, basta enviar no header da requisição essa informações.
 
-Exemplo de requisição autenticada (onde `UGFkbW9uZXk=` é o Token de Acesso do usuário e `P@dm0n3y` é a chave de segurança):
+### Módulos e Plugins
 
-```
-GET /v2/ping
-Padmoney-Token: UGFkbW9uZXk
-Padmoney-Token-Secret: P@dm0n3y
-```
-
+Existem [módulos prontos para integrar ao Padmoney](/integração/modulos-plugins/) sem a necessidade de desenvolver a integração.
